@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="107ed3b7-7f2e-4827-98d0-b599aab28830" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/hello-custom-element/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-custom-element/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-custom-element/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-custom-element/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-custom-element/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/hello-custom-element/.postcssrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-custom-element/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-custom-element/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-custom-element/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-custom-element/src/app/app.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-custom-element/src/app/app.routes.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-custom-element/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hello-custom-element/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-custom-element/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/hello-custom-element/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/host-application/public/scripts/hello-custom-element/3rdpartylicenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/host-application/public/scripts/hello-custom-element/browser/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/host-application/public/scripts/hello-custom-element/browser/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/host-application/public/scripts/hello-custom-element/browser/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/host-application/public/scripts/hello-custom-element/browser/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/host-application/public/scripts/hello-custom-element/browser/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/host-application/public/scripts/hello-custom-element/prerendered-routes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hello-custom-element" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1743162990" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1743162989" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -37,9 +63,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/alessandropinto/dev/studies/angular/custom-elements/app-elements/app/public&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alessandropinto/dev/studies/angular/custom-elements/host-application/public&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -52,17 +78,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/host-application/public" />
       <recent name="$PROJECT_DIR$/app-elements/app/public" />
       <recent name="$PROJECT_DIR$/app-elements/movie-element" />
       <recent name="$PROJECT_DIR$/app-elements/app/public/hello-element" />
       <recent name="$PROJECT_DIR$/app-elements/hello-element" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/host-application/public/scripts" />
       <recent name="$PROJECT_DIR$/hello-custom-element/src" />
       <recent name="$PROJECT_DIR$/app-elements/movie-element/src" />
       <recent name="$PROJECT_DIR$/app-elements/hello-element/src" />
       <recent name="$PROJECT_DIR$/app-elements/movie-element/src/app/services" />
-      <recent name="$PROJECT_DIR$/app-elements/app/public/hello-element" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -84,7 +111,7 @@
       <workItem from="1740731414022" duration="189000" />
       <workItem from="1740734815003" duration="376000" />
       <workItem from="1740735210556" duration="17620000" />
-      <workItem from="1743152563237" duration="5501000" />
+      <workItem from="1743152563237" duration="8399000" />
     </task>
     <servers />
   </component>
